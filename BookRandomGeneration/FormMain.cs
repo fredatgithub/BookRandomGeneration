@@ -70,6 +70,8 @@ namespace BookRandomGeneration
 
     private void buttonGenerateRandomText_Click(object sender, EventArgs e)
     {
+      // load dictionary file
+      // create random words with punctuation
 
     }
   }
