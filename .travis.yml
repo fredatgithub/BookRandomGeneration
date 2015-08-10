@@ -1,0 +1,8 @@
+language: csharp
+solution: BookRandomGeneration.sln
+
+#script:
+#  - xbuild /p:Configuration=Release GenerateProductKeys/GenerateProductKeys.csproj
+
+notifications:
+  email: false
